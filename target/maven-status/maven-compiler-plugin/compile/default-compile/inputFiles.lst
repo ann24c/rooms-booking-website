@@ -2,11 +2,9 @@ C:\Users\aziobro\Desktop\booking-site\src\main\java\example\webproject\Entities\
 C:\Users\aziobro\Desktop\booking-site\src\main\java\example\webproject\Entities\House.java
 C:\Users\aziobro\Desktop\booking-site\src\main\java\example\webproject\Entities\PaidStatus.java
 C:\Users\aziobro\Desktop\booking-site\src\main\java\example\webproject\App.java
-C:\Users\aziobro\Desktop\booking-site\src\main\java\example\webproject\Transaction\HouseTransation.java
-C:\Users\aziobro\Desktop\booking-site\src\main\java\example\webproject\Transaction\RoomTransaction.java
+C:\Users\aziobro\Desktop\booking-site\src\main\java\example\webproject\HomeController.java
 C:\Users\aziobro\Desktop\booking-site\src\main\java\example\webproject\Entities\ReservationStatus.java
+C:\Users\aziobro\Desktop\booking-site\src\main\java\example\webproject\GuestRegisterController.java
 C:\Users\aziobro\Desktop\booking-site\src\main\java\example\webproject\Entities\Reservation.java
-C:\Users\aziobro\Desktop\booking-site\src\main\java\example\webproject\Transaction\GuestTransaction.java
-C:\Users\aziobro\Desktop\booking-site\src\main\java\example\webproject\Transaction\ReservationTransaction.java
 C:\Users\aziobro\Desktop\booking-site\src\main\java\example\webproject\Entities\Room.java
 C:\Users\aziobro\Desktop\booking-site\src\main\java\example\webproject\SessionConfig.java
