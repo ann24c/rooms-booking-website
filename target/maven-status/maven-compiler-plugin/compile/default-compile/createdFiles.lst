@@ -6,3 +6,4 @@ example\webproject\SessionConfig.class
 example\webproject\Entities\Guest.class
 example\webproject\Entities\Reservation.class
 example\webproject\Entities\ReservationStatus.class
+example\webproject\repositories\GuestRepository.class
